@@ -27,7 +27,7 @@
 | 10K | — | 1 | $0.00 | $0.00 | — |
 | [LM741](https://stompboxparts.com/semiconductors/lm741cn-opamp-ic/) | op-amp | 1 | $0.80 | $0.80 | [Stomp Box Parts](https://stompboxparts.com/semiconductors/lm741cn-opamp-ic/) |
 | **Parts subtotal** | — | — | — | **$7.03** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$7.03** | — |
+| **Tax & shipping** | — | — | — | **$8.49** | — |
+| **Total** | — | — | — | **$15.52** | — |
 
-$22.97 left of the tier's funding.
+$14.48 left of the tier's funding.
