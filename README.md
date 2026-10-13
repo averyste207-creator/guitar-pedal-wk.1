@@ -4,7 +4,7 @@ A DIY guitar distortion pedal project. This repository contains the circuit sche
 
 ## Circuit Schematic
 
-![Distortion pedal circuit schematic](images/distortion-pedal-schematic.png)
+![Distortion pedal circuit schematic](image_2026-10-12_185548199.png)
 
 ## Overview
 
